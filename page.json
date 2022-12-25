@@ -1,46 +1,46 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Abhishek yadav",
+  "description": "Dev",
+  "image_url": "https://raw.githubusercontent.com/abhi14nexu/my-links/main/profile-picture.jpeg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/abhishekcodes/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/abhi14nexu",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/abhishek_codes",
       "icon": "twitter"
     },
     {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
+      "url": "",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "",
       "icon": "instagram"
     },
     {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "",
       "icon": "medium"
     },
     {
       "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
+      "url": "",
       "icon": "youtube"
     },
     {
       "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
+      "url": "https://abhicodes.vercel.app/",
       "icon": "link"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "",
       "icon": "spotify"
     }
   ]
