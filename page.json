@@ -19,38 +19,18 @@
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
-      "url": "",
+      "url": "https://www.instagram.com/iabhi.y/",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
+      "title": "Portfolio",
       "url": "https://abhicodes.vercel.app/",
       "icon": "link"
     },
     {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
       "title": "Spotify",
-      "url": "",
+      "url": "https://open.spotify.com/playlist/1iF8BRKnJo3IUClpe4jKG8?si=48d9be0846b74bcf",
       "icon": "spotify"
     }
   ]
