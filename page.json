@@ -19,19 +19,9 @@
       "icon": "twitter"
     },
     {
-      "title": "Instagram",
-      "url": "https://www.instagram.com/iabhi.y/",
-      "icon": "instagram"
-    },
-    {
       "title": "Portfolio",
       "url": "https://abhicodes.vercel.app/",
       "icon": "link"
-    },
-    {
-      "title": "Spotify",
-      "url": "https://open.spotify.com/playlist/1iF8BRKnJo3IUClpe4jKG8?si=48d9be0846b74bcf",
-      "icon": "spotify"
     }
   ]
 }
